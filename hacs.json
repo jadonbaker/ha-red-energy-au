@@ -1,5 +1,6 @@
 {
   "name": "Red Energy",
+  "hide_default_branch": true,
   "country": ["AU"],
   "homeassistant": "2024.1.0"
 }
